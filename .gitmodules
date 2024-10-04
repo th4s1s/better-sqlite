@@ -1,3 +1,0 @@
-[submodule "query/fast"]
-	path = Utils/modules/query
-	url = https://github.com/th4s1s/hook.git
